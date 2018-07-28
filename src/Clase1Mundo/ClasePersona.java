@@ -1,7 +1,6 @@
-package org.aprendiendoaprogramar.mundo;
+package Clase1Mundo;
 
 public class ClasePersona {
-
 	/**
 	 * Es la edad de la persona
 	 */
@@ -80,5 +79,4 @@ public class ClasePersona {
 		 */
 		System.out.println(p2.darDatos());
 	}
-
 }

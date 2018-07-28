@@ -1,9 +1,6 @@
-package org.aprendiendoaprogramar.mundo;
-
-import java.util.Scanner;
+package Clase1Mundo;
 
 public class TiposDeDatos {
-
 	public static void main(String[] args) {
 
 		/**
@@ -32,5 +29,4 @@ public class TiposDeDatos {
 		System.out.println("Decimal: " + dinero);
 		// System.out.println("Hola, soy " + nombre + ", tengo " + edad + " años de edad.");
 	}
-
 }
