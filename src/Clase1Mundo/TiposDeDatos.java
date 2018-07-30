@@ -28,5 +28,7 @@ public class TiposDeDatos {
 		System.out.println("Caracter: " + letra);
 		System.out.println("Decimal: " + dinero);
 		// System.out.println("Hola, soy " + nombre + ", tengo " + edad + " años de edad.");
+		
+		
 	}
 }

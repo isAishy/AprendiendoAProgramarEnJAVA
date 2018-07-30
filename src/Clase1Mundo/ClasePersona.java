@@ -53,7 +53,7 @@ public class ClasePersona {
 		 * para crear una instancia se usa la palabra reservada "new"
 		 * y se invoca el metodo constructor
 		 */
-		ClasePersona p1 = new ClasePersona(55, "juan carlos", "masculino");
+		//ClasePersona p1 = new ClasePersona(55, "juan carlos", "masculino");
 
 		/**
 		 * creacion de la instancia p2 basado en la clase clasePersona.
